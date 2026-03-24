@@ -34,7 +34,7 @@ My work spans:
 
 #### Featured Work
 
-* [Vehicle Physics System](./projects/visual-concepts/vehicle-physics.md)
+* [Vehicle Physics System](./projects/visual-concepts/vehicles.md)
 * [Suspension & Traction Modeling](./projects/visual-concepts/suspension.md)
 * [Input System Refactor](./projects/visual-concepts/input-system.md)
 * [IK Optimization & Performance Work](./projects/visual-concepts/ik-optimization.md)
