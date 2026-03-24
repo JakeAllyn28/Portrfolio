@@ -137,6 +137,5 @@ This portfolio is actively being expanded. Upcoming sections:
 ## Contact
 
 * Email: [jake@allynfamily.com](mailto:jake@allynfamily.com)
-* LinkedIn: [link]
 
 ---
