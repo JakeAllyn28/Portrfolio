@@ -1,1 +1,64 @@
-# Placeholder
+# Aircraft Failure & Dispersion Simulation
+
+**Context:** ACTA-SH (FAA Risk Modeling)  
+**Stack:** Python, JSBSim, QGIS  
+**Focus:** Aerospace Simulation, Monte Carlo  
+
+---
+
+## Overview
+
+Developed a simulation system to model aircraft failure scenarios and predict ground-level risk through dispersion analysis.
+
+The system was used to evaluate how failures (loss of control, propulsion issues, etc.) affect impact zones and risk profiles.
+
+---
+
+## Problem
+
+- Aircraft failure behavior is highly variable and difficult to predict
+- Wind and environmental conditions significantly affect outcomes
+- Required large-scale statistical sampling to produce meaningful results
+- Needed outputs in geographic formats for analysis
+
+---
+
+## Solution
+
+Built a Monte Carlo simulation pipeline:
+
+- JSBSim used for aircraft dynamics
+- Python wrapper to run batch simulations
+- Wind model integrated using real-world weather data (NWS historical data)
+- Outputs converted to geographic coordinates for visualization
+
+---
+
+## Key Features
+
+- Configurable failure scenarios (rudder lock, engine failure, etc.)
+- Weather-aware simulation inputs
+- Large-scale batch execution
+- Geographic visualization via QGIS
+
+---
+
+## Technical Details
+
+- Monte Carlo sampling of environmental and failure parameters
+- Integration of NOAA weather data
+- Automated pipeline for simulation → processing → visualization
+
+---
+
+## Results / Impact
+
+- Used in FAA-related risk analysis workflows
+- Enabled evaluation of ground impact probability distributions
+- Supported safety assessments and reporting
+
+---
+
+## Visuals
+
+TBA
