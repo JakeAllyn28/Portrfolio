@@ -3,11 +3,12 @@
 Physics + software engineer specializing in real-time simulation, vehicle dynamics, and aerospace modeling.
 
 * C++, Python, C#, MATLAB
-* Unity, Godot, JSBSim, QGIS
+* Unity, Godot, Unreal
+* JSBSim, QGIS, LISA FEM
 * Real-time physics, orbital mechanics, Monte Carlo systems
 * AAA gameplay systems + government simulation work
 
-[Resume](#) | [LinkedIn](#)
+[Resume](#) | [LinkedIn](https://www.linkedin.com/in/jake-allyn/)
 
 ---
 
