@@ -61,4 +61,4 @@ Built a Monte Carlo simulation pipeline:
 
 ## Visuals
 
-TBA
+![Sim Visual](./aircraft_to_ground.png)
