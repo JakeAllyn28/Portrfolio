@@ -71,7 +71,8 @@ Focused heavily on separating:
 
 ![NBA 2K24 Lowrider](./NBA_2K24_Season_7_Lowrider__1_.avif)
 * ![2K25 "The Track" Demo](https://www.youtube.com/watch?v=vmT1Lodl2bY)
-* * First iteration of "The Track" introduced in 2K25
+  * First iteration of "The Track" introduced in NBA 2K25
 * ![2K24 Skateboard Debut](https://youtu.be/q1M5nhhkLQE?si=z5NHkudwCEICCC2H&t=119)
+  * First iteration of my vehicle system available starting in NBA 2K24
 * ![2K25 "The Track" Announcement](https://nba.2k.com/en-GB/2k25/courtside-report/the-city/)
 * ![2k26 "The Track" Details](https://nba.2k.com/2k26/courtside-report/the-city/)
