@@ -59,4 +59,10 @@ Focused on improving internal tools, optimizing gameplay calculations, and imple
 - Improved efficiency of internal support tools  
 - Reduced computational cost of gameplay calculations  
 - Enabled alternative monetization paths with lower overhead  
-- Contributed to both backend infrastructure and core gameplay systems  
+- Contributed to both backend infrastructure and core gameplay systems
+
+---
+
+## Visuals
+
+![CTA Main Game Screen](https://img.utdstc.com/screen/67d/da6/67dda65ce3e00c86b61377bfef709a6c1bf562f0d37ce976687a5c6ebadc38c9:800)
