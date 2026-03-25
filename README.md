@@ -29,9 +29,23 @@ My work spans:
 ## Selected Highlights
 
 * Led development of vehicle physics systems shipped in multiple AAA titles (NBA 2K24-2K27)
-* Built a C++ orbital simulation enngine for satellite mission analysis and visualization
+* Built a C++ orbital simulation engine for satellite mission analysis and visualization
 * Designed experimental systems (impulse sleds, drop towers) to validate physics models
 * Developed Monte Carlo pipelines for large-scale risk and dispersion analysis
+
+---
+
+## Publications
+
+Shock and Vibration Symposium (2021–2022)
+
+- [Secondary Debris Effects on Building Infrastructure Derived from Experiments](http://savecenter.org/91st%20Symposium/FinalProgram.pdf)  
+- [A Green's Function Methodology for Higher-Fidelity Surrogate Models](http://www.savecenter.org/92nd%20Symposium/92nd%20Authors%20Package.pdf)  
+- [Secondary Debris Impulse Measurements from Failing CMU and RC Walls](http://www.savecenter.org/92nd%20Symposium/92nd%20Authors%20Package.pdf)  
+
+*Focused on experimental validation and modeling of debris and structural response under blast conditions.*
+
+Note: abstracts available at above links. Full papers/presentations are CUI, contact SAVE for process on obtaining copies
 
 ---
 
