@@ -1,5 +1,3 @@
-(work in progress - some links may not work and information may be incomplete)
-
 # Jake Allyn – Physics & Simulation Engineer
 
 Physics and simulation engineer specializing in real-time physics, vehicle dynamics, and aerospace modeling across AAA games and government research.
